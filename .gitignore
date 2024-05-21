@@ -2,3 +2,7 @@ target
 /day1/.settings
 /day1/*.classpath
 /day1/*.project
+/day2/bin
+/day2/.classpath
+/day2/.project
+/day2/.settings
