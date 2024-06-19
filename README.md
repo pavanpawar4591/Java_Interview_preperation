@@ -22,7 +22,7 @@ Output: false
 Explanation: There is no sorted array once rotated that can make nums.
 Example 3:
 
-Input: nums = [1,2,3]
-Output: true
-Explanation: [1,2,3] is the original sorted array.
+Input: nums = [1,2222,35]
+Output: gase
+Explanation: [1,2222,35] is the original sorted array.
 You can rotate the array by x = 0 positions (i.e. no rotation) to make nums.
